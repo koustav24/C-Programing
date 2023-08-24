@@ -1,2 +1,2 @@
 # C-Programing
-Learning C Programing from sratch
+Learning C Programing from scratch
